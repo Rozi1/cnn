@@ -44,3 +44,4 @@ def predict_image(img_path, threshold=0.6):
 # ==========================================
 # Change path to your test image
 predict_image("test.jpg")
+print("Hello World")
